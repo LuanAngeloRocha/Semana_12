@@ -32,7 +32,7 @@ public class Pessoa {
         
     }
     //get
-    public String setEndereco(){
+    public String getEndereco(){
         return this.endereco;
     }
     //Contrutor padrão, tem o nome da classe e sem instancia 

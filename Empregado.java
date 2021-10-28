@@ -9,7 +9,7 @@ public class Empregado extends Pessoa {
 
     }
     //metrodo de consulta 
-    public int setcodigoSetor (){
+    public int getcodigoSetor (){
         return this.codigoSetor;
 
     }
@@ -19,7 +19,7 @@ public class Empregado extends Pessoa {
 
     }
     //metrodo de consulta 
-    public double setsalarioBase (){
+    public double getsalarioBase (){
         return this.salarioBase;
         
     }
@@ -29,7 +29,7 @@ public class Empregado extends Pessoa {
 
     }
     //metrodo de consulta 
-    public double setimposto (){
+    public double getimposto (){
         return this.imposto;
         
     }
